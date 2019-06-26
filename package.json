@@ -1,0 +1,15 @@
+{
+	"name": "generator-node",
+	"version": "0.1.0",
+	"description": "A generator to create a babel nodejs boilerplate",
+	"files": [
+		"generators"
+	],
+	"keywords": [
+		"yeoman-generator"
+	],
+	"dependencies": {
+		"ncp": "^2.0.0",
+		"yeoman-generator": "^1.0.0"
+	}
+}
